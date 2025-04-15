@@ -31,12 +31,6 @@ Manual identification of animal species is time-consuming and prone to errors, e
 - **Scikit-learn**
 - **Jupyter Notebook**
 
-## 🗂️ Dataset
-
-The dataset consists of multiple animal classes stored in separate directories, with each class representing one animal species. Image augmentation techniques are applied to improve generalization.
-
-> *Note: Dataset should be downloaded and placed in the `datasets/` directory as referenced in the notebook.*
-
 ## 🧱 Model Architecture
 
 The model uses a custom **Convolutional Neural Network (CNN)** architecture consisting of:
